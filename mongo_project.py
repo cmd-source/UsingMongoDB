@@ -23,7 +23,7 @@ def show_menu():
     print("2. Find a record by name")
     print("3. Edit a record")
     print("4. Delete a record")
-    print("5.Exit")
+    print("5. Exit")
 
     option = input("Enter option: ")
     return option
